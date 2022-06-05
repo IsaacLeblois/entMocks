@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "faker": "^5.5.3",
+    "mongoose": "^6.3.5",
+    "socket.io": "^4.5.1"
+  },
+  "name": "entmocks",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacLeblois/entMocks.git"
+  },
+  "author": "Isaac Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacLeblois/entMocks/issues"
+  },
+  "homepage": "https://github.com/IsaacLeblois/entMocks#readme"
+}
